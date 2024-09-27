@@ -1,0 +1,9 @@
+API kye 40ff0fdedba4506ea84ba0f65646b8d9
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=40ff0fdedba4506ea84ba0f65646b8d9
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Kadapa&appid=40ff0fdedba4506ea84ba0f65646b8d9

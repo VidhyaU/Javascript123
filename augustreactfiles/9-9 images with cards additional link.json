@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Hyderabad",
+        "pic": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/98/f7/df/charminar.jpg?w=2400&h=1000&s=1"
+    },
+    {
+        "name": "Banglore",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sunset_at_Nagawara%2C_Bangalore_%282019%29.jpg/220px-Sunset_at_Nagawara%2C_Bangalore_%282019%29.jpg"
+    },
+    {
+        "name": "Delhi",
+        "pic": "https://cdn.britannica.com/37/189837-050-F0AF383E/New-Delhi-India-War-Memorial-arch-Sir.jpg?w=300"
+    },
+    {
+        "name": "Pune",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nuYw8krerhN_likyXb1gh7nsJrClT8W0bw&s"
+    },
+    {
+        "name":"Kerala",
+        "pic":"https://www.indiautentica.com/wp-content/webp-express/webp-images/uploads/2022/10/29ezcwtmtnm.jpg.webp"
+        },
+
+        {
+            "name":"Goa",
+            "pic":"https://www.justahotels.com/wp-content/uploads/2023/11/Weekend-Getaways-From-Goa.jpg"
+            }
+]
